@@ -1,5 +1,6 @@
 # stegHideShow
-Steganography scripts for encoding text into an image file and decoding text from an image file.
+Steganography scripts for encoding text into an image file and decoding text from an image file. Tools such as this are usually used for system hacking purposes and industrial/corporate espionage. *** Please see Disclaimer at the bottom!
+
 Two scripts: stegHide.py and stegShow.py
 
 ## How the stegHide.py script works?
